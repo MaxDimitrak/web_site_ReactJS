@@ -1,0 +1,60 @@
+.activeLink span{
+    color:#c49a65;
+    border-bottom: 3px solid
+}
+.cfraftframeShopSlider img{
+margin: 0 auto;
+}
+.whatIsInsideBtn{
+    margin-top: -518px;
+    text-align: center;
+    font-family: 'GothamPro-Bold';
+    font-size: 40px;
+    color: #7783a1;
+    text-decoration: underline;
+}
+.craftframeShop{
+    margin-top: 91px;
+}
+.cfraftframeShopSlide{
+    text-align: center;
+}
+.buttonOrder1{
+    height: 125px;
+    width: 666px;
+    background-color:#7783a1 ;
+    border-radius:20px;
+    border-style: none;
+    margin-top:260px;
+    font-size: 40px;
+    color: white;
+    font-family: 'GothamPro-Bold';
+}
+.buttonOrder2{
+    position:absolute;
+    height: 125px;
+    width: 666px;
+    background-color:#7783a1 ;
+    border-radius:20px;
+    border-style: none;
+    margin-top:-180px;
+    margin-left: 50%;
+    transform: translate(-273.8%);
+    font-size: 40px;
+    color: white;
+    font-family: 'GothamPro-Bold';
+}
+.buttonOrder3{
+    position:absolute;
+    height: 125px;
+    width: 666px;
+    background-color:#7783a1 ;
+    border-radius:20px;
+    border-style: none;
+    margin-top:-180px;
+    margin-left: 50%;
+    transform: translate(-273.8%);
+    font-size: 40px;
+    color: white;
+    font-family: 'GothamPro-Bold';
+}

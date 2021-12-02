@@ -1,0 +1,44 @@
+.App-wrapper {
+  width: 1125px;
+  height: 2247px;
+  background: linear-gradient(to top, #202020, #313131);
+}
+.screenIdentifier {
+  visibility: visible;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #444444;
+  z-index: 300;
+}
+.QrCode img {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  width: 20%;
+  height: auto;
+  transform: translate(-50%, -50%);
+}
+.screenIdentifier h3 {
+  position: absolute;
+  top: 72%;
+  left: 50%;
+  width: 100%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  font-family: "GothamPro-Light";
+}
+
+.screenIdentifier h4 {
+  position: absolute;
+  top: 77%;
+  left: 50%;
+  width: 100%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  font-family: "GothamPro-Light";
+}

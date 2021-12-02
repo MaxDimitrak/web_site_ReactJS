@@ -1,0 +1,38 @@
+.manImg{
+    position: absolute;
+    margin-top: 241px;
+    margin-left: 187px;
+    width: 751px;
+    height: 682px;
+}
+.titleArticles {
+    text-align: center;
+    margin-top: 78px;
+    color: white;
+    font-family: 'GothamPro-Bold';
+    font-size: 48px;
+}
+.spanArticles1{
+    text-align: center;
+    margin-top: 108px;
+    color: white;
+    font-family: "GothamPro-Light";
+    font-size: 48px;
+}
+.spanArticles2{
+    text-align: center;
+    margin-top: 54px;
+    color: white;
+    font-family: "GothamPro-Light";
+    font-size: 48px;
+}
+.spanArticles3{
+    text-align: center;
+    margin-top: 54px;
+    color: white;
+    font-family: "GothamPro-Light";
+    font-size: 48px;
+}
+
+
+

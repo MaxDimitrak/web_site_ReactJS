@@ -1,0 +1,39 @@
+.discount{
+    text-align: center;
+    margin-top: 78px;
+}
+.title5{
+    color: white;
+    font-family: 'GothamPro-Bold';
+    font-size: 48px;
+}
+.discount10{
+    margin-top: 250px;
+}
+.footer{
+    margin-top: 250px;
+}
+.footer img{
+    vertical-align: middle;
+}
+.title10{
+    color: white;
+    font-family: 'GothamPro-Bold';
+    font-size: 48px;
+}
+.spanItem{
+    color: white;
+    font-family: 'GothamPro-Light';
+    font-size: 48px;
+}
+.craftframeHref{
+    font-family: 'GothamPro-Light';
+    text-decoration: none;
+    font-size: 48px;
+    color:  #c3a271;
+}
+#email{
+    color: #7783a1;
+    font-size: 48px;
+    font-family: 'GothamPro-Light';
+}

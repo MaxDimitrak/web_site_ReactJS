@@ -1,0 +1,37 @@
+.bottomMenu{
+    position: absolute;
+    margin-top:1389px ;
+    width: 1125px;
+    height: 248px;
+    background-color: #7783a1
+}
+.generalLogo{
+    position: absolute;
+    width: 813px;
+    height: 165px;
+    margin-top: 160px;
+    margin-left: 156px;
+}
+.iconOne{
+margin-top: 92px;
+margin-left: 195px;
+}
+.iconTwo{
+    margin-top: 92px;
+    margin-left: 156px;
+}
+.iconThree{
+    margin-top: 92px;
+    margin-left: 156px;
+}
+.iconFour{
+    margin-top: 92px;
+    margin-left: 156px;
+}
+.mainImg{
+    position: absolute;
+    width: 1011px;
+    height: 485px;
+    margin-left: 60px;
+    margin-top: 551px;
+}

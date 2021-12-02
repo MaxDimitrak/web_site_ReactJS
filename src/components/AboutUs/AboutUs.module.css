@@ -1,0 +1,37 @@
+.patternUp{
+    margin-top: 91px;
+}
+
+.patternDown{
+    margin-top: 170px;
+}
+.textLine1{
+    margin-top: 170px;
+    text-align: center;
+    font-size: 36px;
+    font-family: 'GothamPro-Regular';
+    color: white;
+}
+.highlight{
+    color:  #c3a271;
+}
+.textLine2{
+    margin-top: 42.5px;
+    text-align: center;
+    font-size: 36px;
+    font-family: 'GothamPro-Regular';
+    color: white;
+}
+.textLine3{
+    margin-top: 130px;
+    text-align: center;
+    font-size: 36px;
+    font-family: 'GothamPro-Regular';
+    color: white;
+}
+.textLine4{
+    text-align: center;
+    font-size: 36px;
+    font-family: 'GothamPro-Regular';
+    color:  #c3a271;
+}

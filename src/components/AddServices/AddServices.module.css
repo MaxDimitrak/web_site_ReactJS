@@ -1,0 +1,39 @@
+.addServicesSpan{
+    position: absolute;
+    font-size: 48px;
+    font-family: 'GothamPro-Bold';
+    color: white;
+    margin-left: 81px;
+    margin-top: 79px;
+}
+.arrow{
+    margin-top: 67px;
+    margin-left: 91px;
+}
+.footer{
+    margin-top: 487px;
+    text-align: center;
+    font-family: 'GothamPro-Light';
+    color: white;
+    font-size: 36px;
+    letter-spacing: 0.5px;
+}
+#firstString{
+    font-size: 48px;
+    color:  #c3a271;;
+}
+#test{
+    margin-top: 10px;
+}
+.servicesItems{
+    margin-top: 432px;
+    text-align: center;
+    font-family: 'GothamPro-Light';
+    color: white;
+    font-size: 48px;
+    letter-spacing: 0.5px;
+}
+#secondString{
+    font-size: 48px;
+    color:  #c3a271;
+}

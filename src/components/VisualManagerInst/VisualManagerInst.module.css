@@ -1,0 +1,54 @@
+.visualManSpan{
+    position: absolute;
+    font-size: 48px;
+    font-family: 'GothamPro-Bold';
+    color: white;
+    margin-left: 81px;
+    margin-top: 79px;
+}
+.arrow{
+    margin-top: 67px;
+    margin-left: 91px;
+}
+.visualManagSlider{
+    margin-top: 119px;
+    margin-left: 71px;
+}
+
+.dots{
+    position: absolute;
+    margin-top: -1259px;
+    margin-left: -173px;
+    font-size: 40px;
+    color: white;
+    font-family: "GothamPro-Bold";
+}
+.dots :global(.slick-active ) span{
+    color: #7783a1;
+}
+
+.dots li{
+    transform: rotate(-90deg);
+    margin-top: 290px;
+}
+.dots :global(li::marker) {
+   display: none;
+}
+.dots li::marker{ 
+    font-size: 0; 
+ } 
+.footer{
+    margin-top: 65px;
+    text-align: center;
+    font-family: 'GothamPro-Light';
+    color: white;
+    font-size: 36px;
+    letter-spacing: 0.5px;
+}
+#firstString{
+    font-size: 48px;
+    color:  #c3a271;;
+}
+#test{
+    margin-top: 10px;
+}

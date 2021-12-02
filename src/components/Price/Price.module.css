@@ -1,0 +1,70 @@
+*{
+    text-decoration: none;
+}
+.titleText{
+font-size: 48px;
+font-family: 'GothamPro-Bold';
+color: white;
+margin-top: 81px;
+text-align: center;
+}
+
+.modelPhoto{
+    width: 996px;
+    height: 187px;
+    background-color: #c3a271;
+    border-radius: 93.5px;
+    color: white;
+    font-family: 'GothamPro-Bold';
+    font-size: 48px;
+    margin-left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    line-height: 186px;
+    margin-top: 119px;
+}
+.featureVideo{
+    width: 996px;
+    height: 187px;
+    background-color: #41414f;
+    border-radius: 93.5px;
+    color: white;
+    font-family: 'GothamPro-Bold';
+    font-size: 48px;
+    margin-left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    line-height: 186px;
+    margin-top: 65px;
+}
+.visualManagerInst{
+    width: 996px;
+    height: 187px;
+    background-color: #c3a271;
+    border-radius: 93.5px;
+    color: white;
+    font-family: 'GothamPro-Bold';
+    font-size: 48px;
+    margin-left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    line-height: 186px;
+    margin-top: 65px;
+}
+.addServices{
+    width: 996px;
+    height: 187px;
+    background-color: #41414f;
+    border-radius: 93.5px;
+    color: white;
+    font-family: 'GothamPro-Bold';
+    font-size: 48px;
+    margin-left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    line-height: 186px;
+    margin-top: 65px;
+}
+.pattern{
+    margin-top: 324px;
+}

@@ -1,0 +1,16 @@
+.imgMailing{
+   margin-left: 50%;
+   margin-top: 150px;
+   transform: translate(-50%);
+}
+p{
+    font-size: 48px;
+    color: white;
+    font-family: 'GothamPro-Light';
+    text-align: center;
+}
+
+.return{
+    margin-top: 500px;
+    color: #7783a1;
+}

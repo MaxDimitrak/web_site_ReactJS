@@ -1,0 +1,50 @@
+*{
+    text-decoration: none;
+    outline: none;
+}
+.reviewSlider{
+    margin-top: 91px;
+    width:1125px;
+}
+.reviewSlider img{
+    padding: 10px;
+}
+.reviewSlider.slick-slide.slick-active img {
+   padding: 50px;
+   width: 1000px;
+}
+
+.review1{
+    margin-top: -255px;
+    text-align: center;
+    font-family: 'GothamPro-Bold';
+    font-size: 40px;
+    color: #7783a1;
+}
+.review2{
+    position: absolute;
+    margin-left: 365px;
+    margin-top: -255px;
+    font-family: 'GothamPro-Bold';
+    font-size: 40px;
+    color: #7783a1;
+}
+.review3{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: -255px;
+    font-family: 'GothamPro-Bold';
+    font-size: 40px;
+    color: #7783a1;
+}
+.review4{
+    position: absolute;
+    margin-left: 380px;
+    margin-top: -255px;
+    font-family: 'GothamPro-Bold';
+    font-size: 40px;
+    color: #7783a1;
+}
+.patternReview{
+    margin-top: 160px;
+}

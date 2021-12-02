@@ -1,0 +1,25 @@
+.portfolioSlider img {
+  margin: 0 auto;
+  margin-top: 91px;
+}
+.patternPortfolio {
+  margin-top: 180px;
+}
+.portfolioLink {
+  margin-top: -947px;
+  text-align: center;
+  text-decoration: underline;
+  color: #7783a1;
+  font-size: 48px;
+  font-family: "GothamPro-Regular";
+}
+.portfolioLink2 {
+  position: absolute;
+  margin-top: -697px;
+  margin-left: 284px;
+  text-align: center;
+  text-decoration: underline;
+  color: #7783a1;
+  font-size: 48px;
+  font-family: "GothamPro-Regular";
+}

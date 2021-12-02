@@ -1,0 +1,19 @@
+.navbar{
+    margin-left: 30px;
+    margin-top: 65px;
+    overflow: auto;
+    white-space: nowrap;
+}
+.itemNavbar{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: 35px;
+    font-size: 47.5px;
+    font-family: 'GothamPro-Regular';
+}
+.activeLink span{
+    
+    color:#7783a1;    
+}

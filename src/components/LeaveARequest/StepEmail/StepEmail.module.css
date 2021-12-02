@@ -1,0 +1,70 @@
+.stemEmail {
+  text-align: center;
+}
+.titleSpan {
+  margin-top: 77px;
+  font-size: 48px;
+  color: white;
+  font-family: "GothamPro-Bold";
+}
+.secondTitleSpan {
+  margin-top: 108px;
+  font-size: 48px;
+  color: white;
+  font-family: "GothamPro-Light";
+}
+.inputEmail {
+  margin-top: 89px;
+  width: 988px;
+  height: 181px;
+  border-radius: 93.5px;
+  font-size: 48px;
+  color: white;
+  font-family: "GothamPro-Light";
+  text-align: center;
+  background-color: #333333;
+  border-color: #c3a271;
+  outline: none;
+  border-style: solid;
+}
+.inputEmail::placeholder {
+  font-size: 48px;
+  color: white;
+  font-family: "GothamPro-Light";
+}
+.fieldButton {
+  margin-top: 65px;
+  width: 996px;
+  height: 187px;
+  border-radius: 93.5px;
+  font-size: 48px;
+  font-family: "GothamPro-Bold";
+  background-color: #41414f;
+  border-color: #41414f;
+  color: white;
+  border-style: solid;
+}
+
+.footerSpan{
+    margin-top: 171px;
+    font-size: 48px;
+    color: #c3a271;
+    font-family: 'GothamPro-Light';
+  }
+  .secondFooterSpan{
+    margin-top: 20px;
+    font-size: 48px;
+    color: #c3a271;
+    font-family: 'GothamPro-Light';
+  }
+  .footerImg img{
+    margin-top: 111px;
+    padding: 0 65px;
+  }
+  .footerPattern{
+    margin-top: 100px;
+  }
+
+  .displayNone{
+    display: none;
+  }

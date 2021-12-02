@@ -1,0 +1,47 @@
+.background {
+  width: 944px;
+  height: 1568px;
+  margin-top: 91px;
+  margin-left: 50%;
+  transform: translate(-50%);
+  background-color: #393939;
+  border-radius: 50px;
+}
+.title {
+  color: white;
+  font-family: "GothamPro-Regular";
+  font-size: 48px;
+  text-align: center;
+  margin-top: 60px;
+}
+.span1 {
+  color: white;
+  font-family: "GothamPro-Regular";
+  font-size: 48px;
+  text-align: center;
+  margin-top: -30px;
+}
+.span2 {
+  color: white;
+  font-family: "GothamPro-Regular";
+  font-size: 48px;
+  text-align: center;
+  margin-top: 95px;
+}
+.span3 {
+  color: #c3a271;
+  font-family: "GothamPro-Regular";
+  font-size: 40px;
+  text-align: center;
+  margin-top: -30px;
+}
+#titleSpan {
+  margin-top: 95px;
+}
+#bottomSpan {
+  font-size: 30px;
+}
+.arrow {
+  margin-top: 110px;
+  margin-left: 110px;
+}

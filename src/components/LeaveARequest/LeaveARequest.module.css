@@ -1,0 +1,17 @@
+.navbar{
+    margin-top: 20px;
+    overflow: auto;
+    white-space: nowrap;
+}
+.itemNavbar{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.activeLink span{
+    color:#c49a65;
+    border-bottom: 3px solid
+}

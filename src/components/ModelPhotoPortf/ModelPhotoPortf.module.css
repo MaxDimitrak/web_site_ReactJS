@@ -1,0 +1,24 @@
+.modelPhotoPortf {
+  position: absolute;
+  background-color: black;
+  width: 1125px;
+  margin-top: 0;
+  z-index: 10;
+}
+
+.returnBack{
+    margin-top: 65px;
+    margin-left: 65px;
+}
+.modelPhotoSlider{
+    margin-top: 65px;
+}
+.modelPhotoSlider img{
+    vertical-align: middle;
+}
+.modelPhotoSlide img{
+    margin-top:75%;
+    transform: translate(0,-50%);
+    max-width: 1125px;
+    height: auto;
+}

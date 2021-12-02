@@ -1,0 +1,36 @@
+::-webkit-scrollbar {
+  width: 0;
+}
+* {
+  outline: nonen[];
+}
+@font-face {
+  font-family: "GothamPro-Bold";
+  src: local("GothamPro-Bold"), url(./font/GothamPro-Bold.woff2) format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "GothamPro-Regular";
+  src: local("GotamPro-Regular"),
+    url(./font/GothamPro-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: "GothamPro-Light";
+  src: local("GothamPro-Light"),
+    url(./font/GothamPro-Light.woff2) format("woff2");
+}
+body {
+  max-width: 1125px;
+  margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

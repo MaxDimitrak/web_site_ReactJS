@@ -1,0 +1,23 @@
+.header img{
+  width: 150px;
+  height: 150px;
+  margin-left:104px;
+  margin-top: 65px;
+}
+.header span{
+  position: absolute;
+  margin-top: 94px;
+  margin-left: 371px;
+  width:435px;
+  height: 93px;
+  color: white;
+  line-height: 91px;
+  text-align: center;
+  background-color: #7783a1;
+  border-radius: 10px;
+  font-size: 46px;
+  font-family: 'GothamPro-Bold';
+}
+.header{
+  position: relative;
+}
